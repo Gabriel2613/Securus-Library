@@ -1,4 +1,4 @@
-# Aplicativo Snack de exemplo
+# Aplicativo Snack
 
 Abra o arquivo `App.js` para começar a escrever o código. Você pode visualizar as alterações diretamente no seu celular ou tablet escaneando o **código QR** ou usando os emuladores de iOS ou Android. Quando terminar, clique em **Salvar** e compartilhe o link!
 
