@@ -1,11 +1,11 @@
-# Sample Snack app
+# Aplicativo Snack de exemplo
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Abra o arquivo `App.js` para começar a escrever o código. Você pode visualizar as alterações diretamente no seu celular ou tablet escaneando o **código QR** ou usando os emuladores de iOS ou Android. Quando terminar, clique em **Salvar** e compartilhe o link!
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+Quando estiver pronto para ver tudo o que o Expo oferece (ou se preferir usar seu próprio editor), você pode **Baixar** seu projeto e usá-lo com o [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli).
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+Todos os projetos criados no Snack são públicos, então você pode facilmente compartilhar o link deste projeto ou incorporá-lo em uma página da web com o botão `<>`.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+Se você estiver com problemas, pode nos enviar um tweet para [@expo](https://twitter.com/expo) ou perguntar em nossos [fóruns](https://forums.expo.dev/c/expo-dev-tools/61) ou [Discord](https://chat.expo.dev/).
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+O Snack é de código aberto. Você pode encontrar o código no [repositório do GitHub](https://github.com/expo/snack).
